@@ -1,4 +1,4 @@
-###John Laudun's original folder "Useful Python Scripts for Texts" has been modified by Ashley Sanders for a collections analysis project at Claremont Colleges Library and is free to use, download, and modify for your own project. Thank you CCL DH team for your hard work in extracting the title data and thanks to John Laudun for making this open access CC licensed! 
+##John Laudun's original repository "Useful Python Scripts for Texts" has been modified by Ashley Sanders for a collections analysis project at Claremont Colleges Library and is free to use, download, and modify for your own project. Thank you CCL DH team for your hard work in extracting the title data and thanks to John Laudun for making this open access CC licensed! 
 
 #Useful Python Scripts for Texts #
 
