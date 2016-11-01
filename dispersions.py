@@ -1,7 +1,6 @@
 #! /usr/bin/env python
 
-import nltk
-import sys
+from sys import nltk
 
 # First, let's get input from the user:
 
@@ -15,7 +14,7 @@ word = raw_input()
 # Then we need to transform the base text using a series of steps.
 # Please note this could be one line:
 
-thefile = open('all-titles.txt')
+thefile = open('memoir.txt')
 rawtext = thefile.read()
 tokens = nltk.word_tokenize(rawtext)
 text = nltk.Text(tokens)

@@ -1,4 +1,4 @@
-Words in text	1256
+Words in text	
 Unique words	511
 ------------------------------	
 Sorted by highest frequency first	
@@ -14,8 +14,8 @@ to	17
 on	17
 a	15
 security	13
-9	13
 for	10
+9	10
 global	8
 why	7
 what	7
@@ -26,6 +26,7 @@ from	6
 democracy	6
 bush	6
 american	6
+11-Sep	6
 violence	5
 us	5
 strategic	5
@@ -70,7 +71,6 @@ as	3
 all	3
 after	3
 administration	3
-11-Sep	3
 workshop	2
 women	2
 with	2
@@ -115,7 +115,7 @@ ideology	2
 identity	2
 human	2
 harbor	2
-guant?namo	2
+guant­namo	2
 get	2
 future	2
 financing	2
@@ -207,7 +207,7 @@ someday	1
 society	1
 sin	1
 side	1
-shelih?uto	1
+shelihœuto	1
 shel	1
 sharpening	1
 sexuality	1
@@ -301,7 +301,7 @@ matador's	1
 master	1
 mass-mediated	1
 mass	1
-mashªabe	1
+mash¬abe	1
 maritime	1
 management	1
 man	1

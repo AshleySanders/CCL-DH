@@ -14,8 +14,8 @@ to,17
 on,17
 a,15
 security,13
-9,13
 for,10
+9,10
 global,8
 why,7
 what,7
@@ -26,6 +26,7 @@ from,6
 democracy,6
 bush,6
 american,6
+9/11,6
 violence,5
 us,5
 strategic,5
@@ -70,7 +71,6 @@ as,3
 all,3
 after,3
 administration,3
-9/11,3
 workshop,2
 women,2
 with,2

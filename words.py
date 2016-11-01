@@ -1,9 +1,12 @@
 #! /usr/bin/env python
 
 import re
+# When you call the script, also give it the filename you want to use.
+from sys import argv
+script, filename = argv
 
 # We start by telling the script what file to use:
-textfile = open('all-titles.txt', 'r')
+textfile = open(filename, 'r')
 
 # Create list of lower case words, \s+ --> match any whitespace(s)
 word_list = re.split('\s+', textfile.read().lower())

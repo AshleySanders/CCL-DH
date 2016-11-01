@@ -1,9 +1,9 @@
-Words in text: 1162
-Unique words: 445
+Words in text: 1161
+Unique words: 446
 ------------------------------
 Sorted by highest frequency first:
 the,122
-,89
+,88
 of,62
 and,59
 in,39
@@ -12,7 +12,7 @@ terror,26
 war,23
 a,20
 on,17
-9,16
+9/11,13
 new,12
 age,11
 to,9
@@ -55,6 +55,7 @@ faith,3
 destruction,3
 biological,3
 against,3
+9,3
 wars,2
 three,2
 theft,2
